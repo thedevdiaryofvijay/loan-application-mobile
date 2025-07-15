@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loan-app/static/css/main.7c2168af.css",
+    "main.js": "/loan-app/static/js/main.cd3a5f1f.js",
+    "index.html": "/loan-app/index.html",
+    "main.7c2168af.css.map": "/loan-app/static/css/main.7c2168af.css.map",
+    "main.cd3a5f1f.js.map": "/loan-app/static/js/main.cd3a5f1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2168af.css",
+    "static/js/main.cd3a5f1f.js"
+  ]
+}
